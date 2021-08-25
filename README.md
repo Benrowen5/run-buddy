@@ -13,4 +13,4 @@ https://Benrowen5.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Ben Rowen
 
-### &c2019 Run Buddy, Inc
+### &copy2019 Run Buddy, Inc
